@@ -4,6 +4,9 @@
 
 BeyondMaps is a smart tourism platform designed to help travelers discover personalized journeys, less-crowded destinations, authentic local experiences, tourism insights, and safety information.
 
+
+live demo- https://beyondmaps-rho.vercel.app
+
 ## 👥 Team
 
 * Gun Agrawal
